@@ -33,6 +33,7 @@ public class pattern4 {
             System.out.println();
         }
 
+        
         // Second Part
         for(int i=1;i<num;i++){
             for(int j=1;j<=i;j++){
